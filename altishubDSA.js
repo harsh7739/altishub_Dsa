@@ -68,6 +68,8 @@ return prev
 
 // check cycle of Linked List
 
+LinkedListCycle(head)
+
 function LinkedListCycle(head){
     let fast=head
     let slow=head
